@@ -50,19 +50,19 @@ button {
   background-color: rgb(57, 57, 226);
 }
 
-.table {
+.divTable {
   padding: 10px;
   width: auto; 
   height:inherit; 
   overflow:auto;
 }
 
-.table::-webkit-scrollbar {
+.divTable::-webkit-scrollbar {
   width: 12px;
   background-color: whitesmoke; 
 }
 
-.table::-webkit-scrollbar-thumb {
+.divTable::-webkit-scrollbar-thumb {
   border-radius: 10px;
   background-color: darkgray; 
 }
